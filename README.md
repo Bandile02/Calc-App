@@ -34,8 +34,8 @@ The project files and directories are organized as follows:
 
 ```
 ├── test.html            # HTML file for the calculator interface
-├── h.css            # CSS file for styling the calculator layout
-└── script.js             # JavaScript file for calculator logic
+├── h.css                # CSS file for styling the calculator layout
+└── script.js            # JavaScript file for calculator logic
 ```
 
 ## License
